@@ -1,2 +1,2 @@
-# friendly-urls-htaccess
+# Friendly URLs-.htaccess
 Friendly URLs .htaccess
